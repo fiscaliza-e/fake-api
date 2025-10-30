@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Alice Julia",
+      "email": "alice@example.com",
+      "zipCode": "01001-000",
+      "password": "Alice123@2025",
+      "agreeToTerms": true
+    },
+    {
+      "id": 2,
+      "name": "Divaldo Vercosa",
+      "email": "divaldo@example.com",
+      "zipCode": "20040-020",
+      "password": "Carlos!2025",
+      "agreeToTerms": true
+    },
+    {
+      "id": 3,
+      "name": "Ludmila Barbosa",
+      "email": "ludmila@example.com",
+      "zipCode": "30130-010",
+      "password": "Lud@la2025",
+      "agreeToTerms": false
+    },
+    {
+      "id": 4,
+      "name": "Vitória Moreira",
+      "email": "vitoria@example.com",
+      "zipCode": "40015-130",
+      "password": "Rafa#2025",
+      "agreeToTerms": true
+    }
+  ]
+}
