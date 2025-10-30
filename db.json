@@ -6,7 +6,9 @@
       "email": "alice@example.com",
       "zipCode": "01001-000",
       "password": "Alice123@2025",
-      "agreeToTerms": true
+      "agreeToTerms": true,
+      "cpf": "123.456.789-00",
+      "phoneNumber": "+55 11 91234-5678"
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "email": "divaldo@example.com",
       "zipCode": "20040-020",
       "password": "Carlos!2025",
-      "agreeToTerms": true
+      "agreeToTerms": true,
+      "cpf": "234.567.890-11",
+      "phoneNumber": "+55 21 98765-4321"
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "email": "ludmila@example.com",
       "zipCode": "30130-010",
       "password": "Lud@la2025",
-      "agreeToTerms": false
+      "agreeToTerms": false,
+      "cpf": "345.678.901-22",
+      "phoneNumber": "+55 31 99876-5432"
     },
     {
       "id": 4,
@@ -30,7 +36,9 @@
       "email": "vitoria@example.com",
       "zipCode": "40015-130",
       "password": "Rafa#2025",
-      "agreeToTerms": true
+      "agreeToTerms": true,
+      "cpf": "456.789.012-33",
+      "phoneNumber": "+55 71 99123-4567"
     }
   ]
 }
