@@ -53,7 +53,7 @@
   {
     "title": "Iluminação Pública",
     "description": "Another long description about a public lighting problem. The quick brown fox jumps over the lazy dog. Now is the time for all good men to come to the aid of their country. I have nothing to offer but blood, toil, tears and sweat.",
-    "status": "Em andamento",
+    "status": "Pendente",
     "protocolNumber": "123456789",
     "date": "11-15-2024",
     "userId": 2
@@ -61,7 +61,7 @@
   {
     "title": "Vazamento de Água",
     "description": "There is a water leak on Main Street. It has been leaking for three days now. Please send a team to fix it as soon as possible. The water is flooding the street and causing a hazard.",
-    "status": "Aberto",
+    "status": "VISUALIZADO",
     "protocolNumber": "987654321",
     "date": "01-05-2026",
     "userId": 3
