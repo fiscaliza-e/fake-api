@@ -66,5 +66,27 @@
     "date": "01-05-2026",
     "userId": 3
   }
+],
+"faq": [    
+  {
+    "id": 1,
+    "question": "Há algum custo para utilizar o aplicativo?",
+    "answer": "Não, o aplicativo é totalmente gratuito para todos os cidadãos. Nosso objetivo é facilitar a comunicação com a prefeitura sem nenhum custo."
+  },
+  {
+    "id": 2,
+    "question": "É possível enviar uma solicitação em nome de outra pessoa?",
+    "answer": "Para garantir a precisão e segurança, solicitamos que as reclamações sejam feitas em nome do próprio usuário cadastrado. Dessa forma, conseguimos manter a transparência e o histórico de cada solicitação."
+  },
+  {
+    "id": 3,
+    "question": "Posso acompanhar o andamento da minha solicitação?",
+    "answer": "Sim! Na aba 'Protocolos', você pode visualizar o status de todas as suas solicitações. Os status podem ser 'PENDENTE', 'VISUALIZADO' ou 'RESOLVIDO'."
+  },
+  {
+    "id": 4,
+    "question": "Quem tem acesso às reclamações que eu envio?",
+    "answer": "Apenas os setores responsáveis da prefeitura e você têm acesso aos detalhes da sua reclamação. Garantimos a privacidade dos seus dados pessoais."
+  }
 ]
 }
