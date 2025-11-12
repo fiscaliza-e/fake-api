@@ -8,7 +8,8 @@
       "password": "Alice123@2025",
       "agreeToTerms": true,
       "cpf": "123.456.789-00",
-      "phoneNumber": "+55 11 91234-5678"
+      "phoneNumber": "+55 11 91234-5678",
+      "pictureUrl": "https://i.pravatar.cc/150?img=1"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "password": "Carlos!2025",
       "agreeToTerms": true,
       "cpf": "234.567.890-11",
-      "phoneNumber": "+55 21 98765-4321"
+      "phoneNumber": "+55 21 98765-4321",
+      "pictureUrl": "https://i.pravatar.cc/150?img=2"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "password": "Lud@la2025",
       "agreeToTerms": false,
       "cpf": "345.678.901-22",
-      "phoneNumber": "+55 31 99876-5432"
+      "phoneNumber": "+55 31 99876-5432",
+      "pictureUrl": "https://i.pravatar.cc/150?img=3"
     },
     {
       "id": 4,
@@ -38,8 +41,11 @@
       "password": "Rafa#2025",
       "agreeToTerms": true,
       "cpf": "456.789.012-33",
-      "phoneNumber": "+55 71 99123-4567"
+      "phoneNumber": "+55 71 99123-4567",
+      "pictureUrl": "https://i.pravatar.cc/150?img=4"
     }
+  ]
+}
   ],
   "protocol":[
   {
